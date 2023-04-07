@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm William 👋<br><br>I'm a senior Computer Science student at Texas A&M focusing on AI/ML and Statistical Analysis<br><br>What do I like?<br>    ⚽ Born and raised to love soccer.<br>    💻 I like to code, but I love to explore adventures<br>    🎶 Jazz. <br><br>(Soccer + Exploratory Data Analysis = ❤)
+# 👋 Hi, I'm William:
+I'm a senior Computer Science student at Texas A&M focusing on AI/ML and Statistical Analysis<br><br>What do I like?<br>    ⚽ Born and raised to love soccer.<br>    💻 I like to code, but I love to explore adventures<br>    🎶 Jazz. <br><br>(Soccer + Exploratory Data Analysis = ❤)
 
 
 ## 🌐 Socials:
